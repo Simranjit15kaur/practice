@@ -1,4 +1,4 @@
 # practice
 my first repository
 <br>
-Author : Simranjit Kaur
+Author : Simranjit Kaur(Khehra)
